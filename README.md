@@ -5,7 +5,7 @@ do Centro Universitário FEI, 2026.
 
 **Autor:** Marcos Paulo Galli dos Santos
 **Orientador:** Prof. Dr. José Agostinho Baitello
-**Defesa:** <data da defesa>
+**Defesa:** 09/06/2026
 
 ## Sobre
 
